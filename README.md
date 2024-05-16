@@ -1,3 +1,10 @@
+<h1 align="center">
+    <img src="banner.png" />
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+👋🏻+There+!!!!&color=white" />
+</h1>
+
 ### Hola a todos! 👋 Soy Michael 👩‍💻
 
 📊 Un apasionado de la ciencia de datos. Mi formación incluye estudios en Henry, donde adquirí sólidos conocimientos en SQL, Python y diversas herramientas de big data como MongoDB, Spark y Kafka, así como en visualización de datos con Tableau y Power BI. Actualmente estudio Ingeniería en Sistemas en la Universidad Tecnológica Nacional y completé el bootcamp de Henry en Data Science.
@@ -38,7 +45,7 @@ Mi pasión por el aprendizaje me motiva a explorar nuevas tecnologías y herrami
   ![colab](https://img.shields.io/badge/-Colabs-7fdbca?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-7fdbca?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-martinez-8773ab143)
+
 
 <!--
 **bkmay1417/bkmay1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,6 +62,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bkmay1417&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
+    <br/>
+    <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bkmay1417&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=20" alt="readme stats" />
+  <br/>
+    <br/>
+  <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bkmay1417&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <br/>
+    <br/>
+    
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkmay1417&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+## 🔗 Links
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/michael-martinez-8773ab143)
+
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="1200"/>
 </p>
