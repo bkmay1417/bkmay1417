@@ -78,6 +78,9 @@ Here are some ideas to get you started:
     
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkmay1417&theme=react-dark&radius=16)
 </div>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=bkmay1417&style=for-the-badge&color=87CEEB&border_radius=20" alt=""/>
+</div>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
