@@ -76,7 +76,7 @@ Here are some ideas to get you started:
     <br/>
     <br/>
     
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkmay1417&theme=react-dark&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkmay1417&theme=react-dark&radius=16)]()
 </div>
 
 <p align="center">
