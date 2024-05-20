@@ -45,7 +45,49 @@ Mi pasión por el aprendizaje me motiva a explorar nuevas tecnologías y herrami
   ![colab](https://img.shields.io/badge/-Colabs-7fdbca?style=flat&logo=colabbadge)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-7fdbca?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+```mermaid
+graph TD;
+    subgraph Ciencia de Datos
+        DataScience[Data Science] --> DataAnalysis[Data Analysis]
+        DataScience --> MachineLearning[Machine Learning]
+    end
 
+    subgraph Análisis de Datos
+        DataAnalysis --> Excel
+        DataAnalysis --> SQL
+        DataAnalysis --> PowerBI
+        DataAnalysis --> Tableau
+
+    end
+
+    subgraph Machine Learning
+        MachineLearning --> Python
+        Python --> Numpy
+        Python --> Pandas
+        Python --> ScikitLearn[Scikit-learn]
+        Python --> Scipy
+        Python --> TensorFlow
+        Python --> Matplotlib
+        Python --> Seaborn
+                
+    end
+
+    subgraph Ingeniería de Datos
+        DataEngineering[Data Engineering] --> Hadoop
+        DataEngineering --> Spark
+        DataEngineering --> Kafka
+        DataEngineering --> Airflow
+        DataEngineering --> Mongodb
+        DataEngineering --> BigQuery
+        DataEngineering --> Neo4J
+        DataEngineering --> Zeppelin
+        DataEngineering --> HBase 
+        DataEngineering --> Hive
+
+    end
+
+    DataScience --> DataEngineering
+```
 
 <!--
 **bkmay1417/bkmay1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
