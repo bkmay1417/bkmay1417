@@ -5,14 +5,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+👋🏻+There+!!!!&color=white" />
 </h1>
 
-###   <img alt="AboutMe" src="https://i.giphy.com/media/xtUikpq5UgX5IgVgbq/giphy.webp" width=50px> Hola a todos! 👋 Soy Michael 👩‍💻
+###   <img alt="AboutMe" src="https://i.giphy.com/media/xtUikpq5UgX5IgVgbq/giphy.webp" width=50px> Hola a todos! 👋 Soy Michael 👩‍💻 <img alt="AboutMe" src="https://i.giphy.com/media/xtUikpq5UgX5IgVgbq/giphy.webp" width=50px>
 
 📊 Un apasionado de la ciencia de datos. Mi formación incluye estudios en Henry, donde adquirí sólidos conocimientos en SQL, Python y diversas herramientas de big data como MongoDB, Spark y Kafka, así como en visualización de datos con Tableau y Power BI. Actualmente estudio Ingeniería en Sistemas en la Universidad Tecnológica Nacional y completé el bootcamp de Henry en Data Science.
 
 Mi pasión por el aprendizaje me motiva a explorar nuevas tecnologías y herramientas para resolver problemas de manera creativa y generar valor. Soy curioso, orientado a resultados y disfruto trabajando en equipo para superar desafíos.
 
   
-<h2><img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px> &nbsp;Habilidades técnicas</h2>
+<h2><img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px> &nbsp;Habilidades técnicas<img alt="TechStack" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" width=50px> </h2>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-7fdbca?style=flat&logo=python)
@@ -128,7 +128,7 @@ Here are some ideas to get you started:
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
 
-##  <img alt="Contact" src="https://media4.giphy.com/media/jOnvrBKkughYykp6WL/giphy.gif?cid=ecf05e47l0xmq4hhiwhpfy041412pvr450970jcve9cqdubz&rid=giphy.gif&ct=s" width=50px> Links
+##  <img alt="Contact" src="https://media4.giphy.com/media/jOnvrBKkughYykp6WL/giphy.gif?cid=ecf05e47l0xmq4hhiwhpfy041412pvr450970jcve9cqdubz&rid=giphy.gif&ct=s" width=50px> Links  <img alt="Contact" src="https://media4.giphy.com/media/jOnvrBKkughYykp6WL/giphy.gif?cid=ecf05e47l0xmq4hhiwhpfy041412pvr450970jcve9cqdubz&rid=giphy.gif&ct=s" width=50px>
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-martinez-8773ab143)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yam8991@gmail.com)
 
