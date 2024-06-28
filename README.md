@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Heeyyy+👋🏻+There+!!!!&color=white" />
 </h1>
 
-###   <img alt="AboutMe" src="https://i.giphy.com/media/xtUikpq5UgX5IgVgbq/giphy.webp" width=50px> Hola a todos! 👋 Soy Michael 👩‍💻 <img alt="AboutMe" src="https://i.giphy.com/media/xtUikpq5UgX5IgVgbq/giphy.webp" width=50px>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Hola a todos! 👋 Soy Michael 👩‍💻  <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 
 📊 Un apasionado de la ciencia de datos. Mi formación incluye estudios en Henry, donde adquirí sólidos conocimientos en SQL, Python y diversas herramientas de big data como MongoDB, Spark y Kafka, así como en visualización de datos con Tableau y Power BI. Actualmente estudio Ingeniería en Sistemas en la Universidad Tecnológica Nacional y completé el bootcamp de Henry en Data Science.
 
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 -->
 
 <br>
-<h2 align="center"> <img alt="Stats" src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width=50px> Stats <img alt="Stats" src="https://i.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.webp" width=50px></h2>
+<h2 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
 <br/>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bkmay1417&count_private=true&theme=react&border_radius=20" alt="streak stats"/>
