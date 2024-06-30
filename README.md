@@ -119,6 +119,50 @@ Here are some ideas to get you started:
     <br/>
     
 ![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkmay1417&theme=react-dark&radius=16)
+
+<details>
+<summary align="left"><strong style="font-size: 1.2em;"><img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width=50px></img> &nbsp;Proyectos destacados <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width=50px></img><strong>
+<h2></h2>
+</summary>
+<div>
+<table>
+<tr>
+  <td width="50%">
+    <h3 align="center">Machine Learning Operations MLOps</h3>
+    <div align="center">                                       
+        <a href="https://github.com/bkmay1417/Machine-Learning-Operations-MLOps-" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" width="230" alt="Machine Learning Operations MLOps"></a>
+        <br>
+        <p><a href="https://github.com/bkmay1417/Machine-Learning-Operations-MLOps-" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        </p>El objetivo es crear un Producto Mínimo Viable (MVP) que incluye la implementación de una API para obtener información sobre desarrolladores, usuarios, géneros</p>
+        <p>Data Science/Data Engineer</p>
+    </div>   
+</td>
+<td width="50%">
+    <h3 align="center">Siniestros viales</h3>
+    <div align="center">
+        <a href="https://github.com/bkmay1417/Analisis_de_datos_Siniestros_Viales" target="_blank"><<img src="img/Portada.gif" width="300" alt="ml"></a>
+        <p><a href="https://github.com/bkmay1417/Analisis_de_datos_Siniestros_Viales" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>Este proyecto se realizó simulando ser un Data Analist de una consultora; y tiene como finalidad la elaboración de un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).</p>
+        <p>Data Analytics</p>
+    </div>
+</table>
+<br>
+<table>
+<tr>  
+  <td width="50%">
+    <h3 align="center">Taxis en NYC</h3>
+    <div align="center">
+        <a href="https://github.com/bkmay1417/nyc-taxis" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6D_SiVbNsBCLiQ5xTQwJUZCUxpXiVn_6DQ&s" width="300" alt="caba"></a>
+        <p><a href="https://github.com/bkmay1417/nyc-taxis" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
+        <p>La movilidad en New York ha aumentado la demanda de taxis, impactando varias dimensiones, siendo el transporte el mayor productor de CO2 en EE.UU. Para mitigar su impacto ambiental y satisfacer las necesidades de transporte, este proyecto evaluará la incorporación de una flota de taxis eléctricos en la ciudad.</p>
+        <p>Proyecto colaborativo</p>
+    </div>                                                                          
+</td> 
+</table>                                                                                 
+</div>
+
+</details>
+
 </div>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=bkmay1417&style=for-the-badge&color=87CEEB&border_radius=20" alt=""/>
