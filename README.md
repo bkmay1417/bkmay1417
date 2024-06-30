@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 <td width="50%">
     <h3 align="center">Siniestros viales</h3>
     <div align="center">
-        <a href="https://github.com/bkmay1417/Analisis_de_datos_Siniestros_Viales" target="_blank"><<img src="img/Portada.gif" width="300" alt="ml"></a>
+        <a href="https://github.com/bkmay1417/Analisis_de_datos_Siniestros_Viales" target="_blank"><img src="img/Portada.gif" width="300" alt="ml"></a>
         <p><a href="https://github.com/bkmay1417/Analisis_de_datos_Siniestros_Viales" target="_blank"><img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a></p>
         <p>Este proyecto se realizó simulando ser un Data Analist de una consultora; y tiene como finalidad la elaboración de un análisis de datos solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), bajo la órbita de la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA).</p>
         <p>Data Analytics</p>
