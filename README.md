@@ -133,7 +133,7 @@ Here are some ideas to get you started:
         <a href="https://github.com/bkmay1417/Machine-Learning-Operations-MLOps-" target="_blank"><img src="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif" width="230" alt="Machine Learning Operations MLOps"></a>
         <br>
         <p><a href="https://github.com/bkmay1417/Machine-Learning-Operations-MLOps-" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a></p>
-        </p>El objetivo es crear un Producto Mínimo Viable (MVP) que incluye la implementación de una API para obtener información sobre desarrolladores, usuarios, géneros</p>
+        </p>El objetivo es crear un Producto Mínimo Viable (MVP) que incluye la implementación de una API para obtener información sobre desarrolladores, usuarios, géneros.</p>
         <p>Data Science/Data Engineer</p>
     </div>   
 </td>
