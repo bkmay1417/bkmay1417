@@ -173,7 +173,7 @@ Here are some ideas to get you started:
 </p>
 
 ##  <img alt="Contact" src="https://media4.giphy.com/media/jOnvrBKkughYykp6WL/giphy.gif?cid=ecf05e47l0xmq4hhiwhpfy041412pvr450970jcve9cqdubz&rid=giphy.gif&ct=s" width=50px> Links  <img alt="Contact" src="https://media4.giphy.com/media/jOnvrBKkughYykp6WL/giphy.gif?cid=ecf05e47l0xmq4hhiwhpfy041412pvr450970jcve9cqdubz&rid=giphy.gif&ct=s" width=50px>
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-martinez-8773ab143)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-martinez-data)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yam8991@gmail.com)
 
 <p align="center">
